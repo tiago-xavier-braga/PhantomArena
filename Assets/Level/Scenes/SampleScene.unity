@@ -320,7 +320,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _playerManager: {fileID: 1525557168}
-  _movementSpeed: 0.3
+  _movementSpeed: 0.05
   <MovementInput>k__BackingField: {x: 0, y: 0}
   _objectToMove: {fileID: 0}
 --- !u!114 &1525557166
